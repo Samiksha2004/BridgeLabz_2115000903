@@ -1,4 +1,4 @@
-public class DistanceCalculator {
+xpublic class DistanceCalculator {
     public static void main(String[] args) {
         double fee = 125000;
         double discountPercent = 10;

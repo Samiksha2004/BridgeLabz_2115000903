@@ -1,0 +1,6 @@
+This is a test line.
+Error: Something went wrong.
+All systems are operational.
+Critical ERROR detected.
+Another normal line.
+
